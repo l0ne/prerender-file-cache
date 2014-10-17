@@ -1,0 +1,25 @@
+{
+  "name": "prerender-file-cache",
+  "version": "0.0.5",
+  "description": "Prerender plugin for caching in file system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suhanovv/prerender-file-cache.git"
+  },
+  "keywords": [
+    "prerender",
+    "filesystem",
+    "cache"
+  ],
+    "dependencies": {
+        "node-fs": ">= 0.1.7"
+    },
+  "author": "Suhanov Vadim",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "0edd111d1fd5fc9b3d7a02c4c2bdb950d5c81234"
+}
